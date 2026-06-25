@@ -1,4 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/mqfarooqi1/mqfarooqi1.r-universe.dev
 	branch = HEAD
+[submodule "GSbench"]
+	path = GSbench
+	url = https://github.com/mqfarooqi1/GSbench
+[submodule "dataProfilerR"]
+	path = dataProfilerR
+	url = https://github.com/mqfarooqi1/dataProfilerR
