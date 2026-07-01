@@ -5,6 +5,3 @@
 [submodule "GSbench"]
 	path = GSbench
 	url = https://github.com/mqfarooqi1/GSbench
-[submodule "dataProfilerR"]
-	path = dataProfilerR
-	url = https://github.com/mqfarooqi1/dataProfilerR
