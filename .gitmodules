@@ -8,6 +8,6 @@
 [submodule "dataProfilerR"]
 	path = dataProfilerR
 	url = https://github.com/mqfarooqi1/dataProfilerR
-[submodule "sddr"]
-	path = sddr
-	url = https://github.com/mqfarooqi1/sddr
+[submodule "orbis"]
+	path = orbis
+	url = https://github.com/mqfarooqi1/orbis
