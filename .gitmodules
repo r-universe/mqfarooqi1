@@ -14,3 +14,6 @@
 [submodule "orbis"]
 	path = orbis
 	url = https://github.com/mqfarooqi1/orbis
+[submodule "sddr"]
+	path = sddr
+	url = https://github.com/mqfarooqi1/sddr
