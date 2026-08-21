@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/mqfarooqi1/mqfarooqi1.r-universe.dev
 	branch = HEAD
+[submodule "AgriFusionR"]
+	path = AgriFusionR
+	url = https://github.com/mqfarooqi1/AgriFusionR
 [submodule "BreedingExperiment"]
 	path = BreedingExperiment
 	url = https://github.com/mqfarooqi1/BreedingExperiment
